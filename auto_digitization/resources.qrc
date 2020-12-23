@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/auto_digitization" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
